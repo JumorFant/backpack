@@ -1,0 +1,30 @@
+ks_4_0 single: Best value: 19 ,completed in :3912.82 ms
+ks_4_0 parallel: Best value :19 ,completed in: 6031.01 ms
+ks_19_0 single: Best value :12248 ,completed in: 6513.55 ms
+ks_19_0 parallel: Best value :12248 ,completed in: 8270.6 ms
+ks_30_0 single: Best value :99798 ,completed in: 7656.85 ms
+ks_30_0 parallel: Best value :99798 ,completed in: 9320.77 ms
+ks_40_0 single: Best value :99924 ,completed in: 9244.12 ms
+ks_40_0 parallel: Best value :99924 ,completed in: 10687.3 ms
+ks_45_0 single: Best value :23301 ,completed in: 15072 ms
+ks_45_0 parallel: Best value :23182 ,completed in: 14082.7 ms
+ks_50_0 single: Best value :140555 ,completed in: 15303.2 ms
+ks_50_0 parallel: Best value :140793 ,completed in: 14775 ms
+ks_50_1 single: Best value :5329 ,completed in: 16731.1 ms
+ks_50_1 parallel: Best value :5326 ,completed in: 15756.8 ms
+ks_60_0 single: Best value :99837 ,completed in: 15486.9 ms
+ks_60_0 parallel: Best value :99837 ,completed in: 16279.3 ms
+ks_100_0 single: Best value :99837 ,completed in: 21959.1 ms
+ks_100_0 parallel: Best value :99837 ,completed in: 21158.1 ms
+ks_100_1 single: Best value :1328846 ,completed in: 35404.7 ms
+ks_100_1 parallel: Best value :1328936 ,completed in: 27709.6 ms
+ks_100_2 single: Best value :10705 ,completed in: 25789.7 ms
+ks_100_2 parallel: Best value :10735 ,completed in: 23532.1 ms
+ks_200_1 single: Best value :1093149 ,completed in: 68605.5 ms
+ks_200_1 parallel: Best value :1093810 ,completed in: 42634.4 ms
+ks_300_0 single: Best value :1673484 ,completed in: 125745 ms
+ks_300_0 parallel: Best value :1673025 ,completed in: 64140.7 ms
+ks_400_0 single: Best value :3943592 ,completed in: 170000 ms
+ks_400_0 parallel: Best value :3944539 ,completed in: 90209.5 ms
+
+
